@@ -1,6 +1,16 @@
 {
   "fontes": [
-    {"nome": "Fonte de exemplo 1", "feed": "https://exemplo.pt/rss.xml", "credibilidade": "v"},
-    {"nome": "Fonte de exemplo 2", "feed": "https://exemplo.pt/politica/feed.xml", "credibilidade": "a"}
+    {"nome": "RTP Notícias", "feed": "https://www.rtp.pt/noticias/rss", "credibilidade": "v", "so_politica": true},
+    {"nome": "Público", "feed": "https://feeds.feedburner.com/PublicoRSS", "credibilidade": "v", "so_politica": true},
+    {"nome": "Expresso", "feed": "https://feeds.feedburner.com/expresso-geral", "credibilidade": "v", "so_politica": true},
+    {"nome": "Renascença", "feed": "https://rr.pt/rssfeed-ultimas", "credibilidade": "v", "so_politica": true},
+    {"nome": "Jornal de Negócios", "feed": "https://www.jornaldenegocios.pt/rss", "credibilidade": "v", "so_politica": true},
+    {"nome": "Jornal Económico", "feed": "https://jornaleconomico.sapo.pt/feed/", "credibilidade": "v", "so_politica": true},
+    {"nome": "Notícias ao Minuto", "feed": "https://www.noticiasaominuto.com/rss/ultima-hora", "credibilidade": "a", "so_politica": true},
+    {"nome": "Correio da Manhã", "feed": "https://www.cmjornal.pt/rss", "credibilidade": "a", "so_politica": true},
+    {"nome": "BBC News (Mundo)", "feed": "https://feeds.bbci.co.uk/news/world/rss.xml", "credibilidade": "v", "so_politica": true},
+    {"nome": "BBC News (Europa)", "feed": "https://feeds.bbci.co.uk/news/world/europe/rss.xml", "credibilidade": "v", "so_politica": true},
+    {"nome": "BBC News (Política do Reino Unido)", "feed": "https://feeds.bbci.co.uk/news/politics/rss.xml", "credibilidade": "v"},
+    {"nome": "NPR (EUA e mundo)", "feed": "https://feeds.npr.org/1001/rss.xml", "credibilidade": "v", "so_politica": true}
   ]
 }
