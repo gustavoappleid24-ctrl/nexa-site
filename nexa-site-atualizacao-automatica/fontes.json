@@ -1,0 +1,6 @@
+{
+  "fontes": [
+    {"nome": "Fonte de exemplo 1", "feed": "https://exemplo.pt/rss.xml", "credibilidade": "v"},
+    {"nome": "Fonte de exemplo 2", "feed": "https://exemplo.pt/politica/feed.xml", "credibilidade": "a"}
+  ]
+}
